@@ -1,0 +1,38 @@
+{
+  "AutoAddToDefaultDataset": {
+    "$type": "WorkloadToggleCustomParameter",
+    "name": "AutoAddToDefaultDataset",
+    "isRestartRequired": false,
+    "customConfigurableLevel": 1,
+    "OptInGen2": false,
+    "OptInGen2ReadOnly": false,
+    "OptInProPlus": false,
+    "OptInProPlusReadOnly": false,
+    "value": false,
+    "defaultValue": true
+  },
+  "ProactiveCaching": {
+    "$type": "WorkloadToggleCustomParameter",
+    "name": "ProactiveCaching",
+    "isRestartRequired": false,
+    "customConfigurableLevel": 1,
+    "OptInGen2": false,
+    "OptInGen2ReadOnly": false,
+    "OptInProPlus": false,
+    "OptInProPlusReadOnly": false,
+    "value": true,
+    "defaultValue": true
+  },
+  "SqlAutoTuning": {
+    "$type": "WorkloadToggleCustomParameter",
+    "name": "SqlAutoTuning",
+    "isRestartRequired": false,
+    "customConfigurableLevel": 1,
+    "OptInGen2": false,
+    "OptInGen2ReadOnly": false,
+    "OptInProPlus": false,
+    "OptInProPlusReadOnly": false,
+    "value": true,
+    "defaultValue": true
+  }
+}
