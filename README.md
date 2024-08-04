@@ -1,6 +1,6 @@
 # GH-FabricDWDBProject for Microsoft Fabric Data Warehouses
 
-Contains a template that you can use to perform CI/CD for Microsoft Fabric Data Warehouses using GitHub Actions. Based on a blog post I wrote called '[CI/CD for Microsoft Fabric Data Warehouses using GitHub Actions]([https://www.kevinrchant.com/2023/10/25/ci-cd-for-microsoft-fabric-data-warehouses-using-yaml-pipelines](https://www.kevinrchant.com/2024/08/01/ci-cd-for-microsoft-fabric-data-warehouses-using-github-actions/)/)'.
+Contains a template that you can use to perform CI/CD for Microsoft Fabric Data Warehouses using GitHub Actions. Based on a blog post I wrote called '[CI/CD for Microsoft Fabric Data Warehouses using GitHub Actions](https://www.kevinrchant.com/2023/10/25/ci-cd-for-microsoft-fabric-data-warehouses-using-yaml-pipelines](https://www.kevinrchant.com/2024/08/01/ci-cd-for-microsoft-fabric-data-warehouses-using-github-actions/)'.
 
 It can be used to deploy the contents of a Database Project to a Microsoft Fabric Data Warehouse using GitHub Actions.
 
