@@ -4,7 +4,7 @@ Contains a template that you can use to perform CI/CD for Microsoft Fabric Data 
 
 It can be used to deploy the contents of a Database Project to a Microsoft Fabric Data Warehouse using GitHub Actions.
 
-It uses a workflow, which you can find in the [.github/workflows](https://github.com/kevchant/GitHub-FabricDWDBProject/tree/main/.github/workflows) subfolder.
+It uses a workflow, which you can find in the [.github/workflows](https://github.com/kevchant/GitHub-FabricDWDBProject/tree/main/.github/workflows) subfolder. In addition, there is a [populated wiki](https://github.com/kevchant/GitHub-FabricDWDBProject/wiki) in this repository that contains further details.
 
 In order to use it in GitHub you can either clone or fork this repository into another GitHub repository.
 
@@ -15,7 +15,7 @@ You MUST have two secrets specified for this to work:
 * SOURCE_DW - Name of the source Data Warehouse.
 * FabricDW_Connection_String - Connection string to connect to the target Data Warehouse.
 
-You can change the workflow, but advise not to hard code in any sensitive details.
+Of course, you can customize the workflow the workflow to suit your needs. But I advise not to hard code in any sensitive details.
 
 You can find the alternative to perform CI/CD for Microsoft Fabric Data Warehouses using YAML Pipelines in Azure DevOps  in my '[AzureDevOps-FabricDWDBProject](https://github.com/kevchant/AzureDevOps-FabricDWDBProject)' repository. 
 
