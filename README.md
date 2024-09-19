@@ -1,6 +1,6 @@
-# GH-FabricDWDBProject for Microsoft Fabric Data Warehouses
+# GitHub-FabricDWDBProject for Microsoft Fabric Data Warehouses
 
-Contains a template that you can use to perform CI/CD for Microsoft Fabric Data Warehouses using GitHub Actions. Based on a database project created with Microsoft Fabric Git integration. Which can be found in the "CICDDWGH.Warehouse" subfolder.
+Contains a template that you can use to perform CI/CD for Microsoft Fabric Data Warehouses using GitHub Actions. Based on a [SQL database project](https://learn.microsoft.com/en-us/sql/tools/sql-database-projects/sql-database-projects?view=sql-server-ver16&WT.mc_id=DP-MVP-5004032%3Fview%3Dsql-server-ver16) created with Microsoft Fabric Git integration. Which can be found in the "CICDDWGH.Warehouse" subfolder.
 
 It was created to accompany a blog post I wrote called '[CI/CD for Microsoft Fabric Data Warehouses using GitHub Actions](https://www.kevinrchant.com/2024/08/01/ci-cd-for-microsoft-fabric-data-warehouses-using-github-actions/)'.
 
